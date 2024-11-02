@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        "Group B5 - Multiplier"      # Project title
+  title:        "Array Multiplier"      # Project title
   author:       "Theodore Hua"      # Your name
   discord:      "@tuanhayhua"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Implementing the 4x4 multiplier using structural logic"      # One line description of what your project does
+  description:  "Implementing a 4x4 multiplier using structural logic"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
