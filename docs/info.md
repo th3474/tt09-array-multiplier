@@ -9,7 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Github Link: https://github.com/th3474/tt09-array-multiplier.git
+Github Link: https://github.com/th3474/tt09-array-multiplier.git   
+
+
 Given two 4-bit inputs of m and q. We multiply m and q to produce the 8-bit output of p.
 
 Figure 1: Diagram of a 4-bit multiplier: https://github.com/th3474/tt09-array-multiplier/blob/main/Multiplier%20Diagram%201.png
